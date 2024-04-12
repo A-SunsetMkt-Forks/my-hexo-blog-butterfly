@@ -44,7 +44,7 @@ favicon: /img/favicon.png
 
 # Avatar (頭像)
 avatar:
-  img: https://i.loli.net/2021/02/24/5O1day2nriDzjSu.png
+  img: /images/sunset_compressed.jpg
   effect: false
 
 # Disable all banner image
@@ -91,8 +91,8 @@ cover:
 
 # Replace Broken Images (替換無法顯示的圖片)
 error_img:
-  flink: /img/loading.gif # https://imgur.com/t/loading/Hco0aDe
-  post_page: /img/loading.gif
+  flink: /images/loading.gif # https://imgur.com/t/loading/Hco0aDe
+  post_page: /images/500x300.png
 
 # A simple 404 page
 error_404:
@@ -226,9 +226,9 @@ aside:
     category: false
   card_author:
     enable: true
-    description:
+    description: Lead Programmer of Sunset Edu. & Tech. Group.
     button:
-      enable: true
+      enable: false
       icon: fab fa-github
       text: Follow Me
       link: https://github.com/xxxxxx

@@ -6,8 +6,8 @@
 # Site
 title: Sunset的博客(Beta)
 subtitle: '绝赞试运营中！'
-description: '这是description.'
-keywords: '这是keywords'
+description: 'Sunset的博客'
+keywords:
 author: Sunset
 language: zh-CN
 timezone: 'Asia/Tokyo'
