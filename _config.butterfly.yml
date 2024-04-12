@@ -138,7 +138,7 @@ photofigcaption: true
 copy:
   enable: true
   copyright:
-    enable: false
+    enable: true
     limit_count: 50
 
 # Post
@@ -892,6 +892,13 @@ lazyload:
 #   favicon_32_32: /pwa/32.png
 #   favicon_16_16: /pwa/16.png
 #   mask_icon: /pwa/safari-pinned-tab.svg
+pwa:
+  enable: true
+  manifest: manifest.json
+  apple_touch_icon: /images/apple-touch-icon.png
+  favicon_32_32: /images/favicon-32x32.png
+  favicon_16_16: /images/favicon-16x16.png
+  mask_icon: /images/safari-pinned-tab.svg
 
 # Open graph meta tags
 # https://developers.facebook.com/docs/sharing/webmasters/

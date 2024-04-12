@@ -1,0 +1,15 @@
+{
+    "name": "Sunset的博客",
+    "short_name": "Sunset博客",
+    "start_url": "/",
+    "icons": [
+        {
+            "src": "images/android-chrome-48x48.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone"
+}
