@@ -1,4 +1,5 @@
 # https://hexo.io/zh-cn/docs/github-pages
+# 若你使用了一个带有 CNAME 的自定义域名，你需要在 source/ 文件夹中新增 CNAME 文件。
 name: Pages
 
 on:
