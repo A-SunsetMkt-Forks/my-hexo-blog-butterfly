@@ -1,8 +1,11 @@
 ---
-title: gallery
+title: 图库
 date: 2024-04-12 20:34:42
 ---
 
+示例页。
+
+<!--
 <div class="gallery-group-main">
 {% galleryGroup '壁纸' '收藏的一些壁纸' '/Gallery/wallpaper' https://i.loli.net/2019/11/10/T7Mu8Aod3egmC4Q.png %}
 {% galleryGroup '漫威' '关于漫威的图片' '/Gallery/marvel' https://i.loli.net/2019/12/25/8t97aVlp4hgyBGu.jpg %}
@@ -19,3 +22,4 @@ date: 2024-04-12 20:34:42
 ![](https://i.loli.net/2019/12/25/mh19anwBSWIkGlH.jpg)
 ![](https://i.loli.net/2019/12/25/2tu9JC8ewpBFagv.jpg)
 {% endgallery %}
+-->
